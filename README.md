@@ -16,15 +16,15 @@ Four high school friends that have always been interested in building with techn
 <img width="235" alt="Screenshot 2025-05-09 at 7 02 24 AM" src="https://github.com/user-attachments/assets/1d42239f-9b96-41b2-a820-12d44738c5c1" />
 
 - Computational biology @ Case Western Reserve University
-- Computational biology research at CU Denver Anchutz, Case Western Reserve University, MIT, and Recursion Pharmaceuticals.
+- Computational biology research at CU Denver Anchutz, Case Western Reserve University, MIT, and Recursion Pharmaceuticals
 - [LinkedIn](https://www.linkedin.com/in/roshan-kern/)
 
-## Lavan Vivekanandasarma:
+## Lavan Vivekanandasarma
 
 <img width="233" alt="Screenshot 2025-05-09 at 7 03 30 AM" src="https://github.com/user-attachments/assets/30419fdd-0621-4f3f-855b-d16c1c982a3e" />
 
 - CS @ Georgia Tech
-- Software engineering at Optum, Atlassian, and Citadel.
+- Software engineering at Optum, Atlassian, and Citadel
 - [LinkedIn](https://www.linkedin.com/in/lavan-v/)
 
 ## Brandon Dong
@@ -32,13 +32,13 @@ Four high school friends that have always been interested in building with techn
 <img width="235" alt="Screenshot 2025-05-09 at 7 03 01 AM" src="https://github.com/user-attachments/assets/d44ec427-3e0d-4912-b6ae-1d375d37cbb0" />
 
 - Math and CS @ Carnegie Mellon
-- Machine learning at PlayStation.
+- Machine learning at PlayStation
 - [LinkedIn](https://www.linkedin.com/in/brandon-j-dong/)
 
-## Rahul Thomas:
+## Rahul Thomas
 
 <img width="235" alt="Screenshot 2025-05-09 at 7 01 40 AM" src="https://github.com/user-attachments/assets/bf76b993-f7df-4b91-a6a7-c09c90abbbef" />
 
 - Math and CS @ Stanford
-- Algorithm design at at HAP Capital and Ritual Virtualized.
+- Algorithm design at at HAP Capital and Ritual Virtualized
 - [LinkedIn](https://www.linkedin.com/in/rahul-t-3b27821b3/)
