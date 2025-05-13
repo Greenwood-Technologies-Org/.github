@@ -5,7 +5,7 @@ We believe accessible intelligence will hugely benefit the life sciences and are
 
 Our current focus is a collaboration with researchers at CU Denver Anschutz to build an agentic system to nominate compounds that hold promise for reversing cardiac fibrosis.
 These compounds will then be screened in vitro and in vivo and used to inform the system during future nominations.
-Try our simple demo ay [cf-compound-selection.vercel.app](https://cf-compound-selection.vercel.app).
+Try our simple demo at [cf-compound-selection.vercel.app](https://cf-compound-selection.vercel.app).
 
 # Team
 
@@ -32,7 +32,7 @@ Four high school friends that have always been interested in building with techn
 <img width="235" alt="Screenshot 2025-05-09 at 7 03 01 AM" src="https://github.com/user-attachments/assets/d44ec427-3e0d-4912-b6ae-1d375d37cbb0" />
 
 - Math and CS @ Carnegie Mellon
-- Machine learning at PlayStation
+- Machine learning at PlayStation and Regrello
 - [LinkedIn](https://www.linkedin.com/in/brandon-j-dong/)
 
 ## Rahul Thomas
